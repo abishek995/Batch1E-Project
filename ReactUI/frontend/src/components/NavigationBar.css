@@ -1,0 +1,15 @@
+.nav{
+    position: sticky;
+    top: 0%;
+    background-color: rgb(243, 152, 243);
+    z-index: 1;
+}
+a{
+    color: blanchedalmond;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+Link{
+    text-decoration: none;
+}
